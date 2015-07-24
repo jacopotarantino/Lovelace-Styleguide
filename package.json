@@ -1,5 +1,5 @@
 {
-  "name": "Lovelace-Styleguide",
+  "name": "lovelace-styleguide",
   "description": "Generates a complete styleguide for your UI components.",
   "version": "0.1.0",
   "homepage": "https://github.com/jacopotarantino/Lovelace-Styleguide",
@@ -17,20 +17,8 @@
   },
   "licenses": [
     {
-      "type": "Creative",
-      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Creative"
-    },
-    {
-      "type": "Commons",
-      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Commons"
-    },
-    {
-      "type": "Attribution",
-      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Attribution"
-    },
-    {
-      "type": "Share-Alike",
-      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Share-Alike"
+      "type": "Creative Commons Attribution Share-Alike",
+      "url": "http://opendefinition.org/licenses/cc-by-sa/"
     }
   ],
   "engines": {
@@ -49,6 +37,8 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "lovelace",
+    "styleguide"
   ]
 }
