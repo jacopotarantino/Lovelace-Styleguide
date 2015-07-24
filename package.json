@@ -1,0 +1,54 @@
+{
+  "name": "Lovelace-Styleguide",
+  "description": "Generates a complete styleguide for your UI components.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jacopotarantino/Lovelace-Styleguide",
+  "author": {
+    "name": "Jack",
+    "email": "jack@ofspades.com",
+    "url": "https://jack.ofspades.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jacopotarantino/Lovelace-Styleguide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/issues"
+  },
+  "licenses": [
+    {
+      "type": "Creative",
+      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Creative"
+    },
+    {
+      "type": "Commons",
+      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Commons"
+    },
+    {
+      "type": "Attribution",
+      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Attribution"
+    },
+    {
+      "type": "Share-Alike",
+      "url": "https://github.com/jacopotarantino/Lovelace-Styleguide/blob/master/LICENSE-Share-Alike"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
