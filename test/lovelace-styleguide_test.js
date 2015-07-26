@@ -22,7 +22,7 @@ var grunt = require('grunt');
     test.ifError(value)
 */
 
-exports.Lovelace_Styleguide = {
+exports['lovelace-styleguide'] = {
   setUp: function(done) {
     // setup here if necessary
     done();

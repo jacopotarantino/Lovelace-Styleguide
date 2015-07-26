@@ -1,5 +1,5 @@
 /*
- * Lovelace-Styleguide
+ * lovelace-styleguide
  * https://github.com/jacopotarantino/Lovelace-Styleguide
  *
  * Copyright (c) 2015 Jack
@@ -13,7 +13,7 @@ module.exports = function(grunt) {
   // Please see the Grunt documentation for more information regarding task
   // creation: http://gruntjs.com/creating-tasks
 
-  grunt.registerMultiTask('Lovelace_Styleguide', 'Generates a complete styleguide for your UI components.', function() {
+  grunt.registerMultiTask('lovelace-styleguide', 'Generates a complete styleguide for your UI components.', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
       punctuation: '.',
