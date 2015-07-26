@@ -2,6 +2,8 @@
 
 > Generates a complete styleguide for your UI components.
 
+[![Code Climate](https://codeclimate.com/github/jacopotarantino/Lovelace-Styleguide/badges/gpa.svg)](https://codeclimate.com/github/jacopotarantino/Lovelace-Styleguide)
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
